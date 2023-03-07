@@ -1,3 +1,0 @@
-token = "MTA3Mjc5NjcyNDk3ODAwODA2NA.GlOyTe.EDbhyijneRV4bvpNKLYSGKPSKnfEmzBhgbeHEI"
-BOT_API = ""
-bot_admin = 713260922080067635
